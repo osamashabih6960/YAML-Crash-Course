@@ -20,6 +20,8 @@ YAML primarily uses key-value pairs, where the key and value are separated by a 
 name: John Doe
 age: 30
 
+--
+
 ## 3. 📚 Hierarchy Through Indentation
 
 YAML uses **indentation** (spaces, not tabs) to represent nested structures, such as dictionaries or objects.  
